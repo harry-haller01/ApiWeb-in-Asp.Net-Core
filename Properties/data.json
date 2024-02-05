@@ -1,0 +1,319 @@
+{
+  "precios": [
+    {
+      "Id_producto": "b8657e3a-9b2f-44a0-bb16-94dd51942db8",
+      "nombre_producto": "Bactivec",
+      "tipo": "20L",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1188.6
+        }
+      ]
+    },
+    {
+      "Id_producto": "b8657e3a-9b2f-44a0-bb16-94dd51942db8",
+      "nombre_producto": "Bactivec",
+      "tipo": "30ml",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1.78
+        }
+      ]
+    },
+    {
+      "Id_producto": "8e06d8ae-8840-4f64-8794-bdc7b198170e",
+      "nombre_producto": "Thurisave 24",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1175.95
+        }
+      ]
+    },
+    {
+      "Id_producto": "147b61d3-3833-413c-a0b1-97be0c2e9b81",
+      "nombre_producto": "Thurisave 13",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1278.25
+        }
+      ]
+    },
+    {
+      "Id_producto": "1cc418d7-7527-4efe-9d51-244e7915ec40",
+      "nombre_producto": "Thurisave 26",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1175.95
+        }
+      ]
+    },
+    {
+      "Id_producto": "799cd7c6-3ffd-4ae9-a83d-72458e31e9cc",
+      "nombre_producto": "Melab",
+      "tipo": "Envasado",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 987.03
+        }
+      ]
+    },
+    {
+      "Id_producto": "799cd7c6-3ffd-4ae9-a83d-72458e31e9cc",
+      "nombre_producto": "Melab",
+      "tipo": "Granel",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 49.35
+        }
+      ]
+    },
+    {
+      "nombre_producto": "Nicosave",
+      "tipo": "Envasado",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 980.6
+        }
+      ]
+    },
+    {
+      "nombre_producto": "Nicosave",
+      "tipo": "Granel",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 49.03
+        }
+      ]
+    },
+    {
+      "Id_producto": "36100b2d-e067-441c-ada0-544de1ac4ff2",
+      "nombre_producto": "Griselesf",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1180.6
+        }
+      ]
+    },
+    {
+      "nombre_producto": "Biofertilzantes",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1528.73
+        }
+      ]
+    },
+    {
+      "nombre_producto": "Biofertilizantes con baja carga Química",
+      "relacion": [
+        {
+          "capacidad": "20L",
+          "costo": 1022.6
+        }
+      ]
+    },
+    {
+      "Id_producto": "201f26f4-8632-41c1-8729-c412d7123c4e",
+      "nombre_producto": "Biorat",
+      "relacion": [
+        {
+          "capacidad": "1Kg",
+          "costo": 981.3
+        },
+        {
+          "capacidad": "50g",
+          "costo": 49.06
+        },
+        {
+          "capacidad": "4Kg",
+          "costo": 3925.2
+        }
+      ]
+    }
+  ],
+  "productos": [
+    {
+      "Id": "201f26f4-8632-41c1-8729-c412d7123c4e",
+      "Nombre": "Biorat",
+      "Imagen": "photo_2024-01-30_00-06-47.jpg",
+      "Descripción": "Rodenticida biológico específico para el control de roedores dañinos, que tiene como principio activo Salmonella enteritidis. El producto se obtiene por la combinación de tres componentes, el cebo que es una sustancia atractiva para las ratas y ratones, el microorganismo que es un patógeno específico y el inmunodepresor.",
+      "Enfermedades que controla": "Leptospirosis, Hantavirus, Salmonelosis, Peste Bubónica, entre otras.",
+      "Ventajas": "Alta eficiencia demostrada en el control de ratas y ratones, tanto en áreas urbanas, como industriales y rurales, en los más variados climas y condiciones de aplicación. Total inocuidad hacia las demás especies animales. No afecta al hombre ni a los animales domésticos, por lo que en caso de ingestión accidental no necesita ningún antídoto. No contamina el medio ambiente por ser altamente biodegradable. Amplio radio de acción, produce una epizootia mortal entre los roedores, afectando también a los que no lo consumieron.",
+      "Otros": {
+        "Modo de acción": "La endotoxina presente en la bacteria produce lesiones necrosantes a nivel de la mucosa del intestino ( placas de Peyer), corazón, bazo e hígado del ratón y de las ratas, después de multiplicarse en sistema del retículo endotelial y desde éste provoca una infección sistémica. Los roedores expuestos comienzan a padecer anorexia, conjuntivitis, depresión, diarrea, pérdida de peso corporal, deshidratación y muerte.",
+        "Modo de aplicación": "Con una sola aplicación cada 6 meses, aplicar en lugares protegidos, frescos y secos donde no incide la luz solar, en horas de la tarde para evitar la afectación del componente activo, en cualquier época del año.",
+        "Estabilidad": "Mantiene su actividad a temperatura de congelación por 1 año, de 8 a 16°C por 6 meses, a la sombra y sin abrir la bolsa en temperatura ambiente a menos de 35°C por 21 días.",
+        "Condiciones de Almacenaje": "Congelación: 1 año \n2 a 8°C: 6 meses \nEn lugar fresco, seco y protegido de la luz: 21 días"
+      }
+    },
+    {
+      "Id": "b8657e3a-9b2f-44a0-bb16-94dd51942db8",
+      "Tipo": "Biolarvicidas",
+      "Nombre": "Bactivec",
+      "Imagen": "photo_2024-01-30_00-07-25.jpg",
+      "Descripción": "Suspensión acuosa obtenida a partir del Bacillus thuringiensis var. israelensis H-14 para el control de larvas de mosquitos de los géneros Aedes, Culex, Anopheles, Psorophora, Mansonia, Uranotaenia y moscas negras.",
+      "Enfermedades que controla": "Filariasis, Dengue, Malaria, Zika, Chikungunya, Fiebre amarilla, Encefalitis, Onchocercosis.",
+      "Ventajas": "- No causa infección al hombre, mamíferos y otros animales de la vida silvestre. El producto es inocuo, no es tóxico, no altera el ecosistema y es biodegradable.  No es inflamable ni corrosivo",
+      "Otros": {
+        "Modo de aplicación": "La aplicación terrestre se realiza por aspersión directa sobre la superficie del criadero a tratar, utilizando aspersores manuales, motomochila y otros. La aplicación aérea se realiza por aspersión utilizando avión, avioneta o helicóptero.",
+        "Dosis": "En dependencia del área a tratar y de las características del criadero en cuanto a vegetación presente, materia orgánica y densidad larvaria, se aplica por superficie a las siguientes:  Aplicaciones terrestres: 2 mL/m2 - 5 mL/m2  Aplicaciones aéreas: 20 L/ha - 50 L/ ha.  Depósitos domésticos: 1 mL/50L de agua.",
+        "Modo de acción": "Actúa por ingestión produciendo toxemia y parálisis del aparato digestivo de las larvas de mosquitos y muerte entre 24 y 48 horas.",
+        "Compatibilidad y Fitotoxicidad": "No actúa sobre las pupas. No se recomienda su uso en criaderos con pH por encima de 8,5. No debe utilizarse junto con el ABATE (Temephos), porque se inactiva.",
+        "pH": "Debe mantenerse en un intervalo entre 4,5 y 5,0.",
+        "Conservación": "Conservar a temperatura que no exceda los 30°C, en lugar fresco, seco y sombreado. Protegido de la luz solar. Mantener el envase cerrado después de su uso.",
+        "Estabilidad": "El producto es estable por 2 años.",
+        "Presentación": "Envases plásticos de polietileno 1, 5, 20 L.",
+        "Otras Imágenes": ["photo_2024-01-30_00-07-24.jpg"]
+      }
+    },
+    {
+      "Id": "36100b2d-e067-441c-ada0-544de1ac4ff2",
+      "Tipo": "Biolarvicidas",
+      "Nombre": "Griselesf",
+      "Descripción": "Suspensión acuosa de la bacteria esporógena formadora de toxinas Bacillus sphaericus, altamente efectivo contra larvas de mosquito de los géneros Culex y Anopheles.",
+      "Enfermedades que controla": "Malaria, Filariasis y Encefalitis.",
+      "Otros": {
+        "Modo de acción": "Actúa por ingestión produciendo toxemia y parálisis del aparato digestivo de las larvas de mosquitos y muerte entre 48 y 72 horas.",
+        "Modo de aplicación": "Se aplicará ante la aparición masiva de larvas de mosquitos en estadios entre 1 y principios de IV. No actúa sobre las pupas. La permanencia es de 3 a 12 meses en dependencia de las características bioecológicas del criadero. Se aplicará por aspersión en la superficie acuática de los mismos con aspersores manuales, motomochilas o por avión.",
+        "Dosis": "Agítese bien antes de usarse. Medir el área efectiva del criadero sometido a tratamiento. Adicionar de 5-10 mL de Griselesf por metro cuadrado de criadero. La dosis más elevada se utiliza en criaderos con concentración de materia orgánica y abundante vegetación. Aplicación aérea: 30 - 50 L/ha. No es necesaria la adición de agua del criadero.",
+        "Compatibilidad y Fitotoxicidad": "Es compatible con pesticidas químicos, excepto con Temephos (Abate). No se recomienda su uso en criaderos con pH por encima de 8,5.",
+        "pH": "Debe mantenerse en un intervalo entre 4,6 y 5,0.",
+        "Conservación": "Consérvese en lugar fresco y seco.",
+        "Estabilidad": "El producto es estable por 2 años.",
+        "Presentación": "Envases plásticos de polietileno 1, 5, 20 L."
+      }
+    },
+    {
+      "Id": "147b61d3-3833-413c-a0b1-97be0c2e9b81",
+      "Tipo": "Bioplaguicidas",
+      "Nombre": "Thurisave 13",
+      "Imagen": "photo_2024-01-30_00-07-20.jpg",
+      "Descripción": "Suspensión Acuosa de color carmelita claro. Obtenida a partir de la bacteria Bacillus thuringiensis, cepa LBT 13. \nAltamente efectivo para el control de las especies de ácaros como: Polyphagotarsonemus latus (ácaro blanco), Tetranychus tumidus (ácaro rojo), Phyllocotrupta oleivora (ácaro del moho), en cultivos de cítricos, pimiento, ajo, ají, tomate y plátano. Además, se utiliza para el control de la Varroa jacobsoni en las colmenas.",
+      "Ventajas": "No afecta a la entomofauna benéfica. Las cosechas pueden realizarse después de la aplicación. No provoca afectaciones a las personas cuando se aplica.",
+      "Otros": {
+        "Modo de acción": "Actúa por ingestión y contacto, provocando mortalidad y disminución de la descendencia en los ácaros tratados.",
+        "Modo de aplicación": "Aplicar por aspersión al follaje en el campo, huertos, organopónicos y casas de cultivo, empleando sistemas de riego (máquinas de aplicación terrestre o mochilas), preferiblemente temprano en la mañana y en la tarde cuando disminuya la intensidad de las radiaciones solares. Aplicar nuevamente si llueve.",
+        "Dosis": "De 5-10 L/ha, diluido en 250 L de agua. Homogeneizar el producto por agitación antes de preparar la dilución.",
+        "Época y frecuencia de aplicación": "Se recomienda su aplicación en la fase de fomento del cultivo y hasta el primer corte. La frecuencia de aplicación se realiza teniendo en cuenta el umbral de la plaga",
+        "Conservación": "Conservar a temperatura ambiente entre 25-28°C, protegido de la luz solar.",
+        "Estabilidad": "Mantiene su estabilidad y efecto acaricida por 6 meses, si se mantienen las condiciones de almacenamiento establecidas.",
+        "Presentación": "Envases plásticos de polietileno 1, 5, 20 L."
+      }
+    },
+    {
+      "Id": "8e06d8ae-8840-4f64-8794-bdc7b198170e",
+      "Tipo": "Bioplaguicidas",
+      "Nombre": "Thurisave 24",
+      "Imagen": "photo_2024-01-30_00-07-21.jpg",
+      "Descripción": "Suspensión Acuosa de color carmelita claro. Obtenida a partir de la bacteria Bacillus thuringiensis var. kurstaki serotipo H-3 cepa LBT 24. Altamente efectivo en las especies de larvas de lepidópteros defoliadores tales como: Spodopteras spp., Plutella xyllostella, Trichoplusia ni, Mocis latipes, Erinnys ello, y Heliothis virescens en los cultivos de maíz, col, berro, pastos, yuca, boniato, papa, tabaco y otros.",
+      "Ventajas": "No afecta a la entomofauna benéfica. Las cosechas pueden realizarse después de la aplicación.  No provoca afectaciones a las personas cuando se aplica. Mejor calidad de la producción del cultivo. Aumento de la rentabilidad del cultivo por la reducción de los costos e incremento de la calidad y cantidad de la producción.",
+      "Otros": {
+        "Modo de acción": "Actúa por ingestión, afectando el sistema digestivo de la larva, la cual posteriormente muere, por lo cual resulta más eficaz en las primeras fases larvales cuando la plaga es más voraz y se alimenta más activamente del follaje de la planta.",
+        "Modo de aplicación": "Aplicar por aspersión al follaje, en el campo, casas de cultivo, organopónicos y huertos, empleando sistemas de riego (máquinas de aplicación terrestre o mochilas), preferiblemente temprano en la mañana y en la tarde cuando disminuya la intensidad de las radiaciones solares, en la tarde cuando disminuya la intensidad de las radiaciones solares, aplicar nuevamente si llueve.",
+        "Dosis": "De 2-3 L/ha, diluido en 250 L de agua (en pastos para el control del falso medidor, Mocis spp. y en yuca para el control de la primavera, Erinnys ello) De 3 a 5 L/ha, diluido en 250 litros de agua (en cruciferas, cucurbitáceas, tabaco y otros cultivos para el control de Heliothis, Helicoverpa, Diaphania, Plutella, Trichoplusia, Ascia) De 6 a 10 L/ha, diluido en 250 L de agua (en cualquier cultivo contra Spodoptera spp).",
+        "Época y frecuencia de aplicación": "Trate de detectar la plaga a tiempo e inicie las aplicaciones desde que aparezcan los huevos y primeros estadios larvales de la plaga. En todos los casos utilice la dosis mayor contra larvas de mayor desarrollo o la presencia de poblaciones más altas. Requiere buena cobertura del follaje por ser un insecticida de ingestión. Las aplicaciones se mantendrán mientras la plaga sobrepase los índices establecidos.",
+        "Conservación": "Conservar a temperatura ambiente entre 25-28°C, protegido de la luz solar.",
+        "Estabilidad": "Mantiene su estabilidad y efecto insecticida por 6 meses, si se mantienen las condiciones de almacenamiento establecidas.",
+        "Presentación": "Envases plásticos de polietileno 1, 5, 20 L."
+      }
+    },
+    {
+      "Id": "1cc418d7-7527-4efe-9d51-244e7915ec40",
+      "Tipo": "Bioplaguicidas",
+      "Nombre": "Thurisave 26",
+      "Descripción": "Suspensión Acuosa de color carmelita claro. Obtenida a partir de la bacteria Bacillus thuringiensis var. kurstaki serotipo H-3 cepa LBT 26. Altamente efectivo en las especies de larvas de lepidópteros defoliadores tales como: Plutella xyllostella, Trichoplusia ni, Mocis latipes, Erinnys ello, Spodopteras spp., Heliothis virescens, en cultivos de col, berro, pastos, yuca, boniato, papa, tabaco y maíz. Se recomienda especialmente para el control de Heliothis",
+      "Ventajas": "No afecta a la entomofauna benéfica. Las cosechas pueden realizarse después de la aplicación. No provoca afectaciones a las personas cuando se aplica. Mejor calidad de la producción del cultivo. Aumento de la rentabilidad del cultivo por la reducción de los costos e incremento de la calidad y cantidad de la producción.",
+      "Otros": {
+        "Modo de acción": "Su mecanismo es por ingestión, afectando el sistema digestivo de la larva del insecto, el cual deja de alimentarse y posteriormente muere, por lo cual resulta más eficaz en las primeras fases larvales cuando la plaga es más voraz y se alimenta más activamente del follaje de la planta.",
+        "Modo de aplicación": "Aplicar por aspersión al follaje, en el campo, casas de cultivo, organopónicos y huertos, empleando sistemas de riego (máquinas de aplicación terrestre o mochilas), preferiblemente temprano en la mañana.",
+        "Dosis": "De 2-3 L/ha, diluido en 250 L de agua (en pastos para el control del falso medidor, Mocis spp. y en yuca para el control de la primavera, Erinnys ello) De 3 a 5 L/ha, diluido en 250 litros de agua (en cruciferas, cucurbitáceas, tabaco y otros cultivos para el control de Heliothis, Helicoverpa, Diaphania, Plutella, Trichoplusia, Ascia) De 6 a 10 L/ha, diluido en 250 L de agua (en cualquier cultivo contra Spodoptera spp).",
+        "Época y frecuencia de aplicación": "Época y frecuencia de aplicación: Se recomienda su aplicación teniendo en cuenta que el índice de la plaga no sea muy alto y que predominen los estadios larvales. Ejerce muy buen control sobre los estadios II. Requiere buena cobertura del follaje por ser un insecticida de ingestión.",
+        "Conservación": "Conservar a temperatura ambiente entre 25-28°C, protegido de la luz solar.",
+        "Estabilidad": "Mantiene su estabilidad y efecto insecticida por 6 meses, si se mantienen las condiciones de almacenamiento establecidas.",
+        "Presentación": "Envases plásticos de polietileno 1, 5, 20 L."
+      }
+    },
+    {
+      "Id": "799cd7c6-3ffd-4ae9-a83d-72458e31e9cc",
+      "Tipo": "Bioestimulantes",
+      "Nombre": "Lebame/MeLab",
+      "Imagen": "photo_2024-01-30_00-07-18.jpg",
+      "Descripción": "Constituidos por los siguientes microorganismos eficientes Bacillus subtilis B/23-45- 10 Nato, Lactobacillus bulgaricum B/103-4-1 y Saccharomyces cereviciae L.25-7-12.",
+      "Ventajas": "Mejora la estructura y agregación de las partículas del suelo, reduce su compactación, incrementa los espacios porosos y mejora la infiltración del agua, se disminuye la frecuencia de riego, evitando la erosión, por el arrastre de las partículas. Abarata los costos, comparado con el uso de fertilizantes químicos. Incrementa la eficacia de la materia orgánica como fertilizante",
+      "Otros": {
+        "Modo de acción": "Sintetizan aminoácidos, ácidos nucleicos, vitaminas, hormonas, enzimas, sustancias antioxidantes, antibióticos, ácidos orgánicos y minerales promoviendo el crecimiento y desarrollo de las plantas. El efecto antioxidante promueve la descomposición de la materia orgánica y la formación de humus. Modifican y equilibran la macro y microflora del suelo balanceando los ecosistemas microbiales, suprimiendo microorganismos patógenos y liberando a los cultivos de enfermedades.",
+        "Modo de aplicación": "En suelo, semilleros y viveros, sustratos de organopónicos y casas de cultivo, tratamiento de semillas e inmersión de Aplicación foliar por aspersión - Inmersión de semillas y posturas.",
+        "Dosis": "Hortícolas: 10 ml/ 1L de agua y 2,5 L/ha. Plátano Enano: 10 ml/ 1L de agua. Caña de azúcar (Umbráculo): 8 mL/ 1L de agua. Tratamiento de aguas negras: 1 L/m3 estimado de aguas contaminadas. posturas: De 30 a 40 L/ha, diluido en 300 a 400 L de agua.",
+        "Época y frecuencia de aplicación": "Cultivos hortícolas: aplicado a los 10 y 20 días después del trasplante. Plátano Enano: aplicación foliar de 2 o 3 veces en fase de viveros. Caña de azúcar (Umbráculo): En semilleros, viveros y plantaciones de hortalizas, papa, granos y otros: 50 mL/L de agua, aplicaciones foliares semanalmente. En caso de lluvia muy fuerte repetir la aplicación. Evitar aplicar en horas de mayor radiación solar. Se recomienda no aplicar junto a pesticidas porque puede provocar pérdida de su bioactividad. La aplicación de productos químicos debe realizarse 7 días antes o después de aplicado el producto. Asperjar en las áreas de los animales diariamente o al menos en días alternos en las primeras semanas, para luego bajar la frecuencia y la dosis.",
+        "Conservación": "Almacénese en lugar seco y fresco. Mantener en su envase original, herméticamente cerrado y protegido de la luz.",
+        "Estabilidad": "Hasta 6 meses después de su producción si se garantizan las condiciones de almacenaje.",
+        "Presentación": "Envases plásticos de polietileno 1, 5, 20 L."
+      }
+    },
+    {
+      "Id": "0dc2873a-551b-4c00-9813-81c19deb64ae",
+      "Tipo": "Biofertilizantes",
+      "Nombre": "Nitrofix",
+      "Descripción": "Su principio activo es la bacteria gramnegativa Azospirillum sp. ESTIMULANTE: acelera crecimiento, floración, fructificación, germinación y enraizamiento, acorta los ciclos de los cultivos. ANTIESTRES: en casos de desequilibrios nutricionales, salinidad, plagas y enfermedades. Mejora las condiciones físicas del suelo. POTENCIADOR DE AGROQUÍMICOS: disminuye las dosis de fertilizantes químicos nitrogenados. AMPLIA APLICACIÓN: tanto en la agricultura convencional así como en la sostenible.",
+      "Ventajas": "Tienen la capacidad de colonizar diversas especies vegetales de manera endofítica y promover su crecimiento, nutrición y productividad a través de mecanismos tales como fijación biológica de nitrógeno y producción de fitohormonas.",
+      "Otros": {
+        "Modo de acción": "Estimula el desarrollo vegetativo de las plantas desde la germinación hasta la fructificación.",
+        "Modo de aplicación": "En las horas tempranas de la mañana, al final de la tarde o en la noche. Caña de azúcar: aplicar asperjado; enterrado al centro de la cepa hasta 45 días después del corte y/o mediante la impregnación en semilla. Otros cultivos: asperjados directo al suelo ya establecido el cultivo, se aplica con mochila. Inoculante en semilla y Esquejes. No aplicar productos químicos(insecticidas, pesticidas) antes o después de los 7 días de aplicado.",
+        "Dosis": "Caña de azúcar: aplicar 100 L/ha en semilla (sumergir en una solución con una dilución (1:10) x 15 minutos). Otros cultivos: 40 L/ha. Inoculante en semilla: sumergir en una solución con una dilución de (1:10) x 15 min. Inoculante de esqueje: sumergir los esquejes en la solución (1:10)",
+        "Época y frecuencia de aplicación": "En cualquier fase fenológica del cultivo: germinación, semillero, vivero, fase de crecimiento vegetativo, prefloración, floración y cuajado del fruto.",
+        "Conservación": "Almacenar en lugares frescos y sombreado. Mantener los recipientes herméticamente cerrados. Una vez abierto debe utilizar el contenido ya que pierde sus condiciones de esterilidad.",
+        "Estabilidad": "Durabilidad máxima de 3 meses (90 días)",
+        "Presentación": "Vejigas de 10L, bidones de 20L, tanques de 200 L y vejigas de 1m3."
+      }
+    },
+    {
+      "Id": "88084f62-67ea-4056-b8de-379e4512f944",
+      "Tipo": "Biofungicidas",
+      "Nombre": "GLUTICID",
+      "Descripción": "Obtenido a partir de la Pseudomonas aeruginosa PSS. Para el control de diferentes hongos fitopatógenos como Tizón temprano (Alternaria solani), Tizón tardío (Phytophthora infestans), Moho azul (Peronosporata bacina), Roya del frijol (Uramyces phaseoli), Mildiu velloso (Pseudoperonospora cubensis) y Sigatoka negra (Micosphaerella fijiensis), controla el Damping off",
+      "Ventajas": "Tienen la capacidad de colonizar diversas especies vegetales de manera endofítica y promover su crecimiento, nutrición y productividad a través de mecanismos tales como fijación biológica de nitrógeno y producción de fitohormonas.",
+      "Otros": {
+        "Modo de acción": "Fungicida biológico de contacto para el control de hongos fitopatógenos",
+        "Modo de aplicación": "Aplicación foliar por aspersión. Inmersión de semillas y posturas. Aplicar en horas tempranas o en horas de la tarde. No mezclar con productos químicos en el momento de la aplicación, ni usar los mismos equipos de aplicación química.",
+        "Dosis": "2 a 3,5 Kg/ha. 6 g/L de agua para 1 kg de semillas.",
+        "Época y frecuencia de aplicación": "En cualquier fase fenológica del cultivo: germinación, semillero, vivero, fase de crecimiento vegetativo, prefloración, floración y cuajado del fruto.",
+        "Conservación": "Debe mantenerse en un lugar seco y fresco.",
+        "Estabilidad": "No debe almacenarse por períodos superiores a 1 año ni a temperaturas por encima de los 40°C.",
+        "Presentación": "Bolsas de nylon con 5 y 10 kg de producto, humedad < 10%"
+      }
+    }
+  ],
+  "personas": [
+    {
+      "Imagen": "./ImagesRepository/photo_2024-01-30_00-06-50.jpg"
+    },
+    {
+      "Imagen": "./ImagesRepository/photo_2024-01-30_00-06-28.jpg"
+    },
+    {
+      "Imagen": "./ImagesRepository/photo_2024-01-30_00-06-26.jpg"
+    },
+    {
+      "Imagen": "./ImagesRepository/photo_2024-01-30_00-06-24.jpg"
+    },
+    {
+      "Imagen": "./ImagesRepository/photo_2024-01-30_00-06-20.jpg"
+    },
+    {
+      "Imagen": "./ImagesRepository/photo_2024-01-30_00-06-50.jpg"
+    },
+    {
+      "Imagen": "./ImagesRepository/photo_2024-01-30_00-06-50.jpg"
+    }
+  ]
+}
